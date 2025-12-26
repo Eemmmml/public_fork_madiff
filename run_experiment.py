@@ -9,6 +9,8 @@ import yaml
 
 from diffuser.utils.launcher_util import RUN, build_nested_variant_generator
 
+# from diffuser.utils.launcher_util import RUN, build_nested_variant_generator
+
 if __name__ == "__main__":
     # Arguments
     parser = argparse.ArgumentParser()
